@@ -1,0 +1,4 @@
+data/
+*.pt
+*.pth
+*.ckpt
